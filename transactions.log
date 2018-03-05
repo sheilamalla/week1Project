@@ -1,0 +1,10 @@
+2018-03-04 22:50:37 INFO  BankAppService:241 - Amount: 100.0 deposited to accountNumber: 10001, currentBalance is: 100.0
+2018-03-04 22:52:21 INFO  BankAppService:253 - Amount: 50.0 withdrawn from accountNumber: 10001, currentBalance is: 50.0
+2018-03-04 22:53:38 INFO  BankAppService:241 - Amount: 100.0 deposited to accountNumber: 10001, currentBalance is: 150.0
+2018-03-04 22:55:04 INFO  BankAppService:253 - Amount: 150.0 withdrawn from accountNumber: 10001, currentBalance is: 0.0
+2018-03-04 23:04:31 INFO  BankAppService:241 - Amount: 20.0 deposited to accountNumber: 0, currentBalance is: 30.0
+2018-03-04 23:04:31 INFO  BankAppService:253 - Amount: 20.0 withdrawn from accountNumber: 0, currentBalance is: 10.0
+2018-03-04 23:06:17 INFO  BankAppService:241 - Amount: 20.0 deposited to accountNumber: 0, currentBalance is: 30.0
+2018-03-04 23:06:17 INFO  BankAppService:253 - Amount: 20.0 withdrawn from accountNumber: 0, currentBalance is: 10.0
+2018-03-04 23:09:13 INFO  BankAppService:238 - Amount: 20.0 deposited to accountNumber: 0, currentBalance is: 30.0
+2018-03-04 23:09:13 INFO  BankAppService:250 - Amount: 20.0 withdrawn from accountNumber: 0, currentBalance is: 10.0
